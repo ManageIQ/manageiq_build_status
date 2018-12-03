@@ -9,6 +9,8 @@ Displays the build status of ManageIQ repositories
 | ManageIQ-UI-Classic | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-classic.svg)](https://travis-ci.org/ManageIQ/manageiq-ui-classic) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-ui-classic/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-ui-classic/master) |
 | ManageIQ-Schema | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-schema.svg)](https://travis-ci.org/ManageIQ/manageiq-schema) | [![Security](https://hakiri.io/github/ManageIQ/manageiq/master.svg)](https://hakiri.io/github/ManageIQ/manageiq/master)|
 | ManageIQ-UI-Service | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-service.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-ui-service) |  |
+| manageiq-automation_engine | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-automation_engine.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-automation_engine) |  |
+| manageiq-content | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-content.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-content) |  |
 | Amazon | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-amazon.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-amazon) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-amazon/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-amazon/master) |
 | Azure | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-azure.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-azure) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-azure/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-azure/master) |
 | Ansible Tower | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-ansible_tower.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-ansible_tower) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-ansible_tower/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-ansible_tower/master) |
@@ -76,6 +78,27 @@ Displays the build status of ManageIQ repositories
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-ui-service?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-ui-service)
 
+# ManageIQ Automate
+
+[![Gem Version](https://badge.fury.io/rb/manageiq-automation_engine.svg)](http://badge.fury.io/rb/manageiq-automation_engine)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-automation_engine.svg)](https://travis-ci.org/ManageIQ/manageiq-automation_engine)
+[![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-automation_engine.svg)](https://codeclimate.com/github/ManageIQ/manageiq-automation_engine)
+[![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-automation_engine/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-automation_engine/coverage)
+[![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-automation_engine.svg)](https://gemnasium.com/ManageIQ/manageiq-automation_engine)
+[![Security](https://hakiri.io/github/ManageIQ/manageiq-automation_engine/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-automation_engine/master)
+
+[![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-automation_engine?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+# ManageIQ Content
+
+[![Gem Version](https://badge.fury.io/rb/manageiq-content.svg)](http://badge.fury.io/rb/manageiq-content)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-content.svg)](https://travis-ci.org/ManageIQ/manageiq-content)
+[![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-content.svg)](https://codeclimate.com/github/ManageIQ/manageiq-content)
+[![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-content/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-content/coverage)
+[![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-content.svg)](https://gemnasium.com/ManageIQ/manageiq-content)
+[![Security](https://hakiri.io/github/ManageIQ/manageiq-content/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-content/master)
+
+[![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-content?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # Providers
 
