@@ -9,6 +9,7 @@ Displays the build status of ManageIQ repositories
 | ManageIQ-UI-Classic | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-classic.svg)](https://travis-ci.org/ManageIQ/manageiq-ui-classic) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-ui-classic/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-ui-classic/master) |
 | ManageIQ-Schema | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-schema.svg)](https://travis-ci.org/ManageIQ/manageiq-schema) | [![Security](https://hakiri.io/github/ManageIQ/manageiq/master.svg)](https://hakiri.io/github/ManageIQ/manageiq/master)|
 | ManageIQ-UI-Service | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-service.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-ui-service) |  |
+| ManageIQ-api | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-api.svg)](https://travis-ci.org/ManageIQ/manageiq-api) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-api/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-api/master) |
 | manageiq-automation_engine | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-automation_engine.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-automation_engine) |  |
 | manageiq-content | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-content.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-content) |  |
 | Amazon | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-amazon.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-amazon) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-amazon/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-amazon/master) |
@@ -85,6 +86,22 @@ Displays the build status of ManageIQ repositories
 [![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-ui-service)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-ui-service?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-ui-service/branches)
+
+
+# ManageIQ-api
+
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-api.svg)](https://travis-ci.org/ManageIQ/manageiq-api)
+[![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-api/badges/gpa.svg)](https://codeclimate.com/github/ManageIQ/manageiq-api)
+[![Codacy](https://api.codacy.com/project/badge/grade/9ffce48ccb924020ae8f9e698048e9a4)](https://www.codacy.com/app/ManageIQ/manageiq-api)
+[![Coverage Status](https://coveralls.io/repos/ManageIQ/manageiq-api/badge.svg?branch=master&service=github)](https://coveralls.io/github/ManageIQ/manageiq-api?branch=master)
+[![Security](https://hakiri.io/github/ManageIQ/manageiq-api/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-api/master)
+
+[![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-api?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq)
+[![License](http://img.shields.io/badge/license-APACHE2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
+
+
+[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-api?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-api/branches)
 
 
 # ManageIQ Automate
