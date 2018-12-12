@@ -42,7 +42,7 @@ Displays the build status of ManageIQ repositories
 [![License](http://img.shields.io/badge/license-APACHE2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq?branch=master&buildCount=50)](https://travis-ci.org/ManageIQ/manageiq/branches)
+[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq/branches)
 
 
 # ManageIQ-UI-Classic
