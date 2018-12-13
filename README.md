@@ -5,33 +5,33 @@ Displays the build status of ManageIQ repositories
 
 | Repo | Build status| Security Warnings |
 |:----:|:-----------:|:------------------|
-| ManageIQ | [![Build Status](https://travis-ci.org/ManageIQ/manageiq.svg)](https://travis-ci.org/ManageIQ/manageiq) | [![Security](https://hakiri.io/github/ManageIQ/manageiq/master.svg)](https://hakiri.io/github/ManageIQ/manageiq/master) |
-| ManageIQ-UI-Classic | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-classic.svg)](https://travis-ci.org/ManageIQ/manageiq-ui-classic) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-ui-classic/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-ui-classic/master) |
-| ManageIQ-Schema | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-schema.svg)](https://travis-ci.org/ManageIQ/manageiq-schema) | [![Security](https://hakiri.io/github/ManageIQ/manageiq/master.svg)](https://hakiri.io/github/ManageIQ/manageiq/master)|
+| ManageIQ | [![Build Status](https://travis-ci.org/ManageIQ/manageiq.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq) | [![Security](https://hakiri.io/github/ManageIQ/manageiq/master.svg)](https://hakiri.io/github/ManageIQ/manageiq/master) |
+| ManageIQ-UI-Classic | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-classic.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-ui-classic) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-ui-classic/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-ui-classic/master) |
+| ManageIQ-Schema | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-schema.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-schema) | [![Security](https://hakiri.io/github/ManageIQ/manageiq/master.svg)](https://hakiri.io/github/ManageIQ/manageiq/master)|
 | ManageIQ-UI-Service | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-service.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-ui-service) |  |
-| ManageIQ-api | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-api.svg)](https://travis-ci.org/ManageIQ/manageiq-api) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-api/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-api/master) |
+| ManageIQ-api | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-api.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-api) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-api/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-api/master) |
 | manageiq-automation_engine | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-automation_engine.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-automation_engine) |  |
 | manageiq-content | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-content.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-content) |  |
-| Amazon | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-amazon.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-amazon) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-amazon/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-amazon/master) |
-| Azure | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-azure.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-azure) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-azure/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-azure/master) |
-| Ansible Tower | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-ansible_tower.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-ansible_tower) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-ansible_tower/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-ansible_tower/master) |
-| Foreman | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-foreman.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-foreman) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-foreman/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-foreman/master) |
-| Google | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-google.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-google) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-google/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-google/master) |
-| Kubernetes | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-kubernetes.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-kubernetes) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-kubernetes/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-kubernetes/master) |
-| Kubevirt | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-kubevirt.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-kubevirt) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-kubevirt/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-kubevirt/master) |
-| Lenovo | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-lenovo.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-lenovo) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-lenovo/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-lenovo/master) |
-| Nuage | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-nuage.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-nuage) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-nuage/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-nuage/master) |
-| Openstack | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-openstack.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-openstack) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-openstack/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-openstack/master) |
-| Openshift | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-openshift.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-openshift) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-openshift/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-openshift/master) |
-| Ovirt | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-ovirt.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-ovirt) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-ovirt/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-ovirt/master) |
-| Redfish | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-redfish.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-redfish) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-redfish/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-redfish/master) |
-| Scvmm | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-scvmm/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-scvmm/master) |
-| Vmware | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-vmware.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-vmware) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-vmware/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-vmware/master) | |
+| Amazon | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-amazon.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-amazon) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-amazon/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-amazon/master) |
+| Azure | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-azure.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-azure) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-azure/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-azure/master) |
+| Ansible Tower | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-ansible_tower.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-ansible_tower) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-ansible_tower/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-ansible_tower/master) |
+| Foreman | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-foreman.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-foreman) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-foreman/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-foreman/master) |
+| Google | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-google.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-google) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-google/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-google/master) |
+| Kubernetes | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-kubernetes.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-kubernetes) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-kubernetes/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-kubernetes/master) |
+| Kubevirt | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-kubevirt.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-kubevirt) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-kubevirt/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-kubevirt/master) |
+| Lenovo | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-lenovo.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-lenovo) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-lenovo/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-lenovo/master) |
+| Nuage | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-nuage.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-nuage) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-nuage/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-nuage/master) |
+| Openstack | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-openstack.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-openstack) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-openstack/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-openstack/master) |
+| Openshift | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-openshift.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-openshift) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-openshift/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-openshift/master) |
+| Ovirt | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-ovirt.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-ovirt) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-ovirt/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-ovirt/master) |
+| Redfish | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-redfish.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-redfish) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-redfish/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-redfish/master) |
+| Scvmm | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-scvmm/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-scvmm/master) |
+| Vmware | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-vmware.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-vmware) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-vmware/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-vmware/master) | |
 
 
 # ManageIQ
 
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq.svg)](https://travis-ci.org/ManageIQ/manageiq)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq/badges/gpa.svg)](https://codeclimate.com/github/ManageIQ/manageiq)
 [![Codacy](https://api.codacy.com/project/badge/grade/9ffce48ccb924020ae8f9e698048e9a4)](https://www.codacy.com/app/ManageIQ/manageiq)
 [![Coverage Status](https://coveralls.io/repos/ManageIQ/manageiq/badge.svg?branch=master&service=github)](https://coveralls.io/github/ManageIQ/manageiq?branch=master)
@@ -49,7 +49,7 @@ Displays the build status of ManageIQ repositories
 # ManageIQ-UI-Classic
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-ui-classic.svg)](http://badge.fury.io/rb/manageiq-ui-classic)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-classic.svg)](https://travis-ci.org/ManageIQ/manageiq-ui-classic)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-classic.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-ui-classic)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-ui-classic.svg)](https://codeclimate.com/github/ManageIQ/manageiq-ui-classic)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-ui-classic/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-ui-classic/coverage)
 [![Coverage Status](https://coveralls.io/repos/github/ManageIQ/manageiq-ui-classic/badge.svg?branch=master)](https://coveralls.io/github/ManageIQ/manageiq-ui-classic?branch=master)
@@ -65,7 +65,7 @@ Displays the build status of ManageIQ repositories
 # ManageIQ Schema
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-schema.svg)](http://badge.fury.io/rb/manageiq-schema)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-schema.svg)](https://travis-ci.org/ManageIQ/manageiq-schema)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-schema.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-schema)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-schema.svg)](https://codeclimate.com/github/ManageIQ/manageiq-schema)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-schema/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-schema/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-schema.svg)](https://gemnasium.com/ManageIQ/manageiq-schema)
@@ -90,7 +90,7 @@ Displays the build status of ManageIQ repositories
 
 # ManageIQ-api
 
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-api.svg)](https://travis-ci.org/ManageIQ/manageiq-api)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-api.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-api)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-api/badges/gpa.svg)](https://codeclimate.com/github/ManageIQ/manageiq-api)
 [![Codacy](https://api.codacy.com/project/badge/grade/9ffce48ccb924020ae8f9e698048e9a4)](https://www.codacy.com/app/ManageIQ/manageiq-api)
 [![Coverage Status](https://coveralls.io/repos/ManageIQ/manageiq-api/badge.svg?branch=master&service=github)](https://coveralls.io/github/ManageIQ/manageiq-api?branch=master)
@@ -107,7 +107,7 @@ Displays the build status of ManageIQ repositories
 # ManageIQ Automate
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-automation_engine.svg)](http://badge.fury.io/rb/manageiq-automation_engine)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-automation_engine.svg)](https://travis-ci.org/ManageIQ/manageiq-automation_engine)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-automation_engine.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-automation_engine)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-automation_engine.svg)](https://codeclimate.com/github/ManageIQ/manageiq-automation_engine)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-automation_engine/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-automation_engine/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-automation_engine.svg)](https://gemnasium.com/ManageIQ/manageiq-automation_engine)
@@ -121,7 +121,7 @@ Displays the build status of ManageIQ repositories
 # ManageIQ Content
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-content.svg)](http://badge.fury.io/rb/manageiq-content)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-content.svg)](https://travis-ci.org/ManageIQ/manageiq-content)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-content.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-content)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-content.svg)](https://codeclimate.com/github/ManageIQ/manageiq-content)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-content/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-content/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-content.svg)](https://gemnasium.com/ManageIQ/manageiq-content)
@@ -136,7 +136,7 @@ Displays the build status of ManageIQ repositories
 ## Amazon
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-amazon.svg)](http://badge.fury.io/rb/manageiq-providers-amazon)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-amazon.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-amazon)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-amazon.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-amazon)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-amazon.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-amazon)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-amazon/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-amazon/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-amazon.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-amazon)
@@ -150,7 +150,7 @@ Displays the build status of ManageIQ repositories
 ## Azure
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-azure.svg)](http://badge.fury.io/rb/manageiq-providers-azure)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-azure.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-azure)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-azure.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-azure)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-azure.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-azure)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-azure/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-azure/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-azure.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-azure)
@@ -164,7 +164,7 @@ Displays the build status of ManageIQ repositories
 ## Ansible tower
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-ansible_tower.svg)](http://badge.fury.io/rb/manageiq-providers-ansible_tower)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-ansible_tower.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-ansible_tower)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-ansible_tower.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-ansible_tower)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-ansible_tower.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ansible_tower)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-ansible_tower/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ansible_tower/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-ansible_tower.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-ansible_tower)
@@ -178,7 +178,7 @@ Displays the build status of ManageIQ repositories
 ## Foreman
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-foreman.svg)](http://badge.fury.io/rb/manageiq-providers-foreman)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-foreman.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-foreman)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-foreman.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-foreman)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-foreman.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-foreman)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-foreman/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-foreman/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-foreman.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-foreman)
@@ -192,7 +192,7 @@ Displays the build status of ManageIQ repositories
 ## Google
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-google.svg)](http://badge.fury.io/rb/manageiq-providers-google)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-google.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-google)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-google.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-google)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-google.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-google)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-google/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-google/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-google.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-google)
@@ -206,7 +206,7 @@ Displays the build status of ManageIQ repositories
 ## Kubernetes
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-kubernetes.svg)](http://badge.fury.io/rb/manageiq-providers-kubernetes)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-kubernetes.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-kubernetes)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-kubernetes.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-kubernetes)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-kubernetes.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-kubernetes)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-kubernetes/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-kubernetes/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-kubernetes.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-kubernetes)
@@ -220,7 +220,7 @@ Displays the build status of ManageIQ repositories
 ## Kubevirt
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-kubevirt.svg)](http://badge.fury.io/rb/manageiq-providers-kubevirt)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-kubevirt.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-kubevirt)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-kubevirt.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-kubevirt)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-kubevirt.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-kubevirt)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-kubevirt/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-kubevirt/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-kubevirt.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-kubevirt)
@@ -233,7 +233,7 @@ Displays the build status of ManageIQ repositories
 ## Lenovo
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-lenovo.svg)](http://badge.fury.io/rb/manageiq-providers-lenovo)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-lenovo.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-lenovo)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-lenovo.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-lenovo)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-lenovo.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-lenovo)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-lenovo/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-lenovo/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-lenovo.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-lenovo)
@@ -248,7 +248,7 @@ Displays the build status of ManageIQ repositories
 ## Nuage
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-nuage.svg)](http://badge.fury.io/rb/manageiq-providers-nuage)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-nuage.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-nuage)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-nuage.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-nuage)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-nuage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-nuage)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-nuage/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-nuage/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-nuage.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-nuage)
@@ -262,7 +262,7 @@ Displays the build status of ManageIQ repositories
 ## Openstack
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-openstack.svg)](http://badge.fury.io/rb/manageiq-providers-openstack)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-openstack.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-openstack)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-openstack.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-openstack)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-openstack.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-openstack)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-openstack/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-openstack/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-openstack.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-openstack)
@@ -276,7 +276,7 @@ Displays the build status of ManageIQ repositories
 ## Openshift
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-openshift.svg)](http://badge.fury.io/rb/manageiq-providers-openshift)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-openshift.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-openshift)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-openshift.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-openshift)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-openshift.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-openshift)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-openshift/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-openshift/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-openshift.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-openshift)
@@ -290,7 +290,7 @@ Displays the build status of ManageIQ repositories
 # Ovirt
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-ovirt.svg)](http://badge.fury.io/rb/manageiq-providers-ovirt)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-ovirt.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-ovirt)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-ovirt.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-ovirt)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-ovirt.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ovirt)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-ovirt/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ovirt/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-ovirt.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-ovirt)
@@ -304,7 +304,7 @@ Displays the build status of ManageIQ repositories
 ## Redfish
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-redfish.svg)](http://badge.fury.io/rb/manageiq-providers-redfish)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-redfish.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-redfish)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-redfish.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-redfish)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-redfish.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-redfish)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-redfish/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-redfish/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-redfish.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-redfish)
@@ -318,7 +318,7 @@ Displays the build status of ManageIQ repositories
 ## Scvmm
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-scvmm.svg)](http://badge.fury.io/rb/manageiq-providers-scvmm)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-scvmm.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-scvmm)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-scvmm/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-scvmm/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-scvmm.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-scvmm)
@@ -332,7 +332,7 @@ Displays the build status of ManageIQ repositories
 ## Vmware
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-vmware.svg)](http://badge.fury.io/rb/manageiq-providers-vmware)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-vmware.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-vmware)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-vmware.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-vmware)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-vmware.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-vmware)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-vmware/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-vmware/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-vmware.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-vmware)
