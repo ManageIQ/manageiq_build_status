@@ -10,7 +10,7 @@ Displays the build status of ManageIQ repositories
 | ManageIQ-Schema | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-schema.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-schema) | [![Security](https://hakiri.io/github/ManageIQ/manageiq/master.svg)](https://hakiri.io/github/ManageIQ/manageiq/master)|
 | ManageIQ-UI-Service | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-service.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-ui-service) |  |
 | ManageIQ-api | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-api.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-api) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-api/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-api/master) |
-| manageiq-automation_engine | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-automation_engine.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-automation_engine) |  |
+| manageiq-automation_engine | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-automation_engine.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-automation_engine) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-automation_engine/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-automation_engine/master) |
 | manageiq-content | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-content.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-content) |  |
 | Amazon | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-amazon.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-amazon) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-amazon/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-amazon/master) |
 | Azure | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-azure.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-azure) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-azure/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-azure/master) |
@@ -125,7 +125,6 @@ Displays the build status of ManageIQ repositories
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-content.svg)](https://codeclimate.com/github/ManageIQ/manageiq-content)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-content/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-content/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-content.svg)](https://gemnasium.com/ManageIQ/manageiq-content)
-[![Security](https://hakiri.io/github/ManageIQ/manageiq-content/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-content/master)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-content?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
