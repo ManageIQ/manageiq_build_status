@@ -14,6 +14,7 @@ Displays the build status of ManageIQ repositories
 | ManageIQ Content | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-content.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-content) | [![security](https://hakiri.io/github/ManageIQ/manageiq-content/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-content/master) |
 | Amazon Web Services (AWS) | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-amazon.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-amazon) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-amazon/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-amazon/master) |
 | Microsoft Azure | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-azure.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-azure) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-azure/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-azure/master) |
+| Microsoft Azure Stack | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-azure_stack.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-azure_stack) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-azure_stack/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-azure_stack/master) |
 | Ansible Tower | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-ansible_tower.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-ansible_tower) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-ansible_tower/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-ansible_tower/master) |
 | Foreman | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-foreman.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-foreman) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-foreman/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-foreman/master) |
 | Google Cloud Platform (GCP) | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-google.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-google) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-google/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-google/master) |
@@ -26,6 +27,7 @@ Displays the build status of ManageIQ repositories
 | Ovirt | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-ovirt.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-ovirt) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-ovirt/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-ovirt/master) |
 | Redfish | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-redfish.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-redfish) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-redfish/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-redfish/master) |
 | Microsoft SCVMM | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-scvmm/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-scvmm/master) |
+| VMware NSX-T | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-nsxt.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-nsxt) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-nsxt/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-nsxt/master) |
 | VMware vSphere and vCloud | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-vmware.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-vmware) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-vmware/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-vmware/master) | |
 
 
@@ -160,6 +162,20 @@ Displays the build status of ManageIQ repositories
 [![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-azure)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-azure?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-azure/branches)
+
+## Microsoft Azure Stack
+
+[![Gem Version](https://badge.fury.io/rb/manageiq-providers-azure_stack.svg)](http://badge.fury.io/rb/manageiq-providers-azure_stack)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-azure_stack.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-azure_stack)
+[![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-azure_stack.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-azure_stack)
+[![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-azure_stack/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-azure_stack/coverage)
+[![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-azure_stack.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-azure_stack)
+[![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-azure_stack/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-azure_stack/master)
+
+[![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-azure_stack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-azure_stack)
+
+[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-azure_stack?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-azure_stack/branches)
 
 ## Ansible Tower
 
@@ -328,6 +344,20 @@ Displays the build status of ManageIQ repositories
 [![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-scvmm)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-scvmm?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm/branches)
+
+## VMware NSX-T
+
+[![Gem Version](https://badge.fury.io/rb/manageiq-providers-nsxt.svg)](http://badge.fury.io/rb/manageiq-providers-nsxt)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-nsxt.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-nsxt)
+[![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-nsxt.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-nsxt)
+[![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-nsxt/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-nsxt/coverage)
+[![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-nsxt.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-nsxt)
+[![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-nsxt/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-nsxt/master)
+
+[![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-nsxt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-nsxt)
+
+[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-nsxt?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-nsxt/branches)
 
 ## VMware vSphere and vCloud
 
