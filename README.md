@@ -6,27 +6,27 @@ Displays the build status of ManageIQ repositories
 | Repo | Build status| Security Warnings |
 |:----:|:-----------:|:------------------|
 | ManageIQ | [![Build Status](https://travis-ci.org/ManageIQ/manageiq.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq) | [![Security](https://hakiri.io/github/ManageIQ/manageiq/master.svg)](https://hakiri.io/github/ManageIQ/manageiq/master) |
-| ManageIQ-UI-Classic | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-classic.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-ui-classic) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-ui-classic/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-ui-classic/master) |
-| ManageIQ-Schema | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-schema.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-schema) | [![Security](https://hakiri.io/github/ManageIQ/manageiq/master.svg)](https://hakiri.io/github/ManageIQ/manageiq/master)|
-| ManageIQ-UI-Service | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-service.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-ui-service) |  |
-| ManageIQ-api | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-api.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-api) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-api/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-api/master) |
-| manageiq-automation_engine | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-automation_engine.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-automation_engine) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-automation_engine/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-automation_engine/master) |
-| manageiq-content | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-content.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-content) | [![security](https://hakiri.io/github/ManageIQ/manageiq-content/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-content/master) |
-| Amazon | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-amazon.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-amazon) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-amazon/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-amazon/master) |
-| Azure | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-azure.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-azure) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-azure/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-azure/master) |
+| ManageIQ Classic UI | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-classic.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-ui-classic) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-ui-classic/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-ui-classic/master) |
+| ManageIQ Schema | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-schema.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-schema) | [![Security](https://hakiri.io/github/ManageIQ/manageiq/master.svg)](https://hakiri.io/github/ManageIQ/manageiq/master)|
+| ManageIQ Service UI | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-service.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-ui-service) |  |
+| ManageIQ API | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-api.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-api) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-api/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-api/master) |
+| ManageIQ Automation Engine | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-automation_engine.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-automation_engine) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-automation_engine/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-automation_engine/master) |
+| ManageIQ Content | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-content.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-content) | [![security](https://hakiri.io/github/ManageIQ/manageiq-content/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-content/master) |
+| Amazon Web Services (AWS) | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-amazon.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-amazon) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-amazon/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-amazon/master) |
+| Microsoft Azure | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-azure.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-azure) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-azure/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-azure/master) |
 | Ansible Tower | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-ansible_tower.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-ansible_tower) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-ansible_tower/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-ansible_tower/master) |
 | Foreman | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-foreman.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-foreman) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-foreman/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-foreman/master) |
-| Google | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-google.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-google) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-google/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-google/master) |
+| Google Cloud Platform (GCP) | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-google.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-google) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-google/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-google/master) |
 | Kubernetes | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-kubernetes.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-kubernetes) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-kubernetes/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-kubernetes/master) |
 | Kubevirt | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-kubevirt.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-kubevirt) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-kubevirt/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-kubevirt/master) |
-| Lenovo | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-lenovo.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-lenovo) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-lenovo/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-lenovo/master) |
+| Lenovo xClarity | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-lenovo.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-lenovo) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-lenovo/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-lenovo/master) |
 | Nuage | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-nuage.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-nuage) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-nuage/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-nuage/master) |
-| Openstack | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-openstack.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-openstack) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-openstack/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-openstack/master) |
-| Openshift | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-openshift.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-openshift) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-openshift/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-openshift/master) |
+| OpenStack | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-openstack.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-openstack) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-openstack/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-openstack/master) |
+| OpenShift | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-openshift.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-openshift) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-openshift/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-openshift/master) |
 | Ovirt | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-ovirt.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-ovirt) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-ovirt/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-ovirt/master) |
 | Redfish | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-redfish.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-redfish) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-redfish/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-redfish/master) |
-| Scvmm | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-scvmm/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-scvmm/master) |
-| Vmware | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-vmware.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-vmware) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-vmware/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-vmware/master) | |
+| Microsoft SCVMM | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-scvmm/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-scvmm/master) |
+| VMware vSphere and vCloud | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-vmware.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-vmware) | [![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-vmware/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-vmware/master) | |
 
 
 # ManageIQ
@@ -46,7 +46,7 @@ Displays the build status of ManageIQ repositories
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq/branches)
 
 
-# ManageIQ-UI-Classic
+# ManageIQ Classic UI
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-ui-classic.svg)](http://badge.fury.io/rb/manageiq-ui-classic)
 [![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-classic.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-ui-classic)
@@ -76,7 +76,7 @@ Displays the build status of ManageIQ repositories
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-schema?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-schema/branches)
 
 
-# ManageIQ-UI-Service
+# ManageIQ Service UI
 
 [![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-service.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-ui-service)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-ui-service/badges/gpa.svg)](https://codeclimate.com/github/ManageIQ/manageiq-ui-service)
@@ -88,7 +88,7 @@ Displays the build status of ManageIQ repositories
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-ui-service?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-ui-service/branches)
 
 
-# ManageIQ-api
+# ManageIQ API
 
 [![Build Status](https://travis-ci.org/ManageIQ/manageiq-api.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-api)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-api/badges/gpa.svg)](https://codeclimate.com/github/ManageIQ/manageiq-api)
@@ -104,7 +104,7 @@ Displays the build status of ManageIQ repositories
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-api?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-api/branches)
 
 
-# ManageIQ Automate
+# ManageIQ Automation Engine
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-automation_engine.svg)](http://badge.fury.io/rb/manageiq-automation_engine)
 [![Build Status](https://travis-ci.org/ManageIQ/manageiq-automation_engine.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-automation_engine)
@@ -133,7 +133,7 @@ Displays the build status of ManageIQ repositories
 
 # Providers
 
-## Amazon
+## Amazon Web Services (AWS)
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-amazon.svg)](http://badge.fury.io/rb/manageiq-providers-amazon)
 [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-amazon.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-amazon)
@@ -147,7 +147,7 @@ Displays the build status of ManageIQ repositories
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-amazon?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-amazon/branches)
 
-## Azure
+## Microsoft Azure
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-azure.svg)](http://badge.fury.io/rb/manageiq-providers-azure)
 [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-azure.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-azure)
@@ -161,7 +161,7 @@ Displays the build status of ManageIQ repositories
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-azure?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-azure/branches)
 
-## Ansible tower
+## Ansible Tower
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-ansible_tower.svg)](http://badge.fury.io/rb/manageiq-providers-ansible_tower)
 [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-ansible_tower.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-ansible_tower)
@@ -189,7 +189,7 @@ Displays the build status of ManageIQ repositories
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-foreman?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-foreman/branches)
 
-## Google
+## Google Cloud Platform (GCP)
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-google.svg)](http://badge.fury.io/rb/manageiq-providers-google)
 [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-google.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-google)
@@ -230,7 +230,7 @@ Displays the build status of ManageIQ repositories
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-kubevirt?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-kubevirt/branches)
 
-## Lenovo
+## Lenovo xClarity
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-lenovo.svg)](http://badge.fury.io/rb/manageiq-providers-lenovo)
 [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-lenovo.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-lenovo)
@@ -259,7 +259,7 @@ Displays the build status of ManageIQ repositories
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-nuage?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-nuage/branches)
 
-## Openstack
+## OpenStack
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-openstack.svg)](http://badge.fury.io/rb/manageiq-providers-openstack)
 [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-openstack.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-openstack)
@@ -273,7 +273,7 @@ Displays the build status of ManageIQ repositories
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-openstack?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-openstack/branches)
 
-## Openshift
+## OpenShift
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-openshift.svg)](http://badge.fury.io/rb/manageiq-providers-openshift)
 [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-openshift.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-openshift)
@@ -287,7 +287,7 @@ Displays the build status of ManageIQ repositories
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-openshift?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-openshift/branches)
 
-# Ovirt
+## Ovirt
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-ovirt.svg)](http://badge.fury.io/rb/manageiq-providers-ovirt)
 [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-ovirt.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-ovirt)
@@ -315,7 +315,7 @@ Displays the build status of ManageIQ repositories
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-redfish?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-redfish/branches)
 
-## Scvmm
+## Microsoft SCVMM
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-scvmm.svg)](http://badge.fury.io/rb/manageiq-providers-scvmm)
 [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm)
@@ -329,7 +329,7 @@ Displays the build status of ManageIQ repositories
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-scvmm?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm/branches)
 
-## Vmware
+## VMware vSphere and vCloud
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-vmware.svg)](http://badge.fury.io/rb/manageiq-providers-vmware)
 [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-vmware.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-vmware)
