@@ -7,7 +7,7 @@ Displays the build status of ManageIQ repositories
 |:----:|:-----------:|
 | ManageIQ | [![Build Status](https://travis-ci.org/ManageIQ/manageiq.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq) |
 | ManageIQ Classic UI | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-classic.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-ui-classic) |
-| ManageIQ Schema | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-schema.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-schema) |
+| ManageIQ Schema | [![CI](https://github.com/ManageIQ/manageiq-schema/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-schema/actions/workflows/ci.yaml) |
 | ManageIQ Service UI | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-service.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-ui-service) |
 | ManageIQ API | [![CI](https://github.com/ManageIQ/manageiq-api/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-api/actions/workflows/ci.yaml) |
 | ManageIQ Automation Engine | [![CI](https://github.com/ManageIQ/manageiq-automation_engine/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-automation_engine/actions/workflows/ci.yaml) |
@@ -72,7 +72,7 @@ Displays the build status of ManageIQ repositories
 # ManageIQ Schema
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-schema.svg)](http://badge.fury.io/rb/manageiq-schema)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-schema.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-schema)
+[![CI](https://github.com/ManageIQ/manageiq-schema/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-schema/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-schema.svg)](https://codeclimate.com/github/ManageIQ/manageiq-schema)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-schema/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-schema/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-schema.svg)](https://gemnasium.com/ManageIQ/manageiq-schema)
