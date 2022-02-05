@@ -9,9 +9,9 @@ Displays the build status of ManageIQ repositories
 | ManageIQ Classic UI | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-classic.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-ui-classic) |
 | ManageIQ Schema | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-schema.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-schema) |
 | ManageIQ Service UI | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-service.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-ui-service) |
-| ManageIQ API | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-api.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-api) |
-| ManageIQ Automation Engine | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-automation_engine.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-automation_engine) |
-| ManageIQ Content | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-content.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-content) |
+| ManageIQ API | [![CI](https://github.com/ManageIQ/manageiq-api/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-api/actions/workflows/ci.yaml) |
+| ManageIQ Automation Engine | [![CI](https://github.com/ManageIQ/manageiq-automation_engine/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-automation_engine/actions/workflows/ci.yaml) |
+| ManageIQ Content | [![CI](https://github.com/ManageIQ/manageiq-content/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-content/actions/workflows/ci.yaml) |
 | Amazon Web Services (AWS) | [![CI](https://github.com/ManageIQ/manageiq-providers-amazon/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-amazon/actions/workflows/ci.yaml) |
 | Kyndryl AutoSDE | [![CI](https://github.com/ManageIQ/manageiq-providers-autosde/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-autosde/actions/workflows/ci.yaml) |
 | Microsoft Azure | [![CI](https://github.com/ManageIQ/manageiq-providers-azure/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-azure/actions/workflows/ci.yaml) |
@@ -96,7 +96,7 @@ Displays the build status of ManageIQ repositories
 
 # ManageIQ API
 
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-api.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-api)
+[![CI](https://github.com/ManageIQ/manageiq-api/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-api/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-api/badges/gpa.svg)](https://codeclimate.com/github/ManageIQ/manageiq-api)
 [![Codacy](https://api.codacy.com/project/badge/grade/9ffce48ccb924020ae8f9e698048e9a4)](https://www.codacy.com/app/ManageIQ/manageiq-api)
 [![Coverage Status](https://coveralls.io/repos/ManageIQ/manageiq-api/badge.svg?branch=master&service=github)](https://coveralls.io/github/ManageIQ/manageiq-api?branch=master)
@@ -112,7 +112,7 @@ Displays the build status of ManageIQ repositories
 # ManageIQ Automation Engine
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-automation_engine.svg)](http://badge.fury.io/rb/manageiq-automation_engine)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-automation_engine.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-automation_engine)
+[![CI](https://github.com/ManageIQ/manageiq-automation_engine/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-automation_engine/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-automation_engine.svg)](https://codeclimate.com/github/ManageIQ/manageiq-automation_engine)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-automation_engine/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-automation_engine/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-automation_engine.svg)](https://gemnasium.com/ManageIQ/manageiq-automation_engine)
@@ -125,7 +125,7 @@ Displays the build status of ManageIQ repositories
 # ManageIQ Content
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-content.svg)](http://badge.fury.io/rb/manageiq-content)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-content.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-content)
+[![CI](https://github.com/ManageIQ/manageiq-content/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-content/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-content.svg)](https://codeclimate.com/github/ManageIQ/manageiq-content)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-content/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-content/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-content.svg)](https://gemnasium.com/ManageIQ/manageiq-content)
