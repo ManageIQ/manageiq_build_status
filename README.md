@@ -12,23 +12,30 @@ Displays the build status of ManageIQ repositories
 | ManageIQ API | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-api.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-api) |
 | ManageIQ Automation Engine | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-automation_engine.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-automation_engine) |
 | ManageIQ Content | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-content.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-content) |
-| Amazon Web Services (AWS) | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-amazon.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-amazon) |
-| Microsoft Azure | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-azure.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-azure) |
-| Microsoft Azure Stack | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-azure_stack.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-azure_stack) |
-| Ansible Tower | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-ansible_tower.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-ansible_tower) |
-| Foreman | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-foreman.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-foreman) |
-| Google Cloud Platform (GCP) | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-google.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-google) |
-| Kubernetes | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-kubernetes.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-kubernetes) |
-| Kubevirt | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-kubevirt.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-kubevirt) |
-| Lenovo xClarity | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-lenovo.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-lenovo) |
-| Nuage | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-nuage.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-nuage) |
-| OpenStack | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-openstack.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-openstack) |
-| OpenShift | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-openshift.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-openshift) |
-| Ovirt | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-ovirt.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-ovirt) |
-| Redfish | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-redfish.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-redfish) |
-| Microsoft SCVMM | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm) |
-| VMware NSX-T | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-nsxt.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-nsxt) |
-| VMware vSphere and vCloud | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-vmware.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-vmware) |
+| Amazon Web Services (AWS) | [![CI](https://github.com/ManageIQ/manageiq-providers-amazon/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-amazon/actions/workflows/ci.yaml) |
+| Kyndryl AutoSDE | [![CI](https://github.com/ManageIQ/manageiq-providers-autosde/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-autosde/actions/workflows/ci.yaml) |
+| Microsoft Azure | [![CI](https://github.com/ManageIQ/manageiq-providers-azure/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-azure/actions/workflows/ci.yaml) |
+| Microsoft Azure Stack | [![CI](https://github.com/ManageIQ/manageiq-providers-azure_stack/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-azure_stack/actions/workflows/ci.yaml) |
+| Ansible Tower | [![CI](https://github.com/ManageIQ/manageiq-providers-ansible_tower/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-ansible_tower/actions/workflows/ci.yaml) |
+| Foreman | [![CI](https://github.com/ManageIQ/manageiq-providers-foreman/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-foreman/actions/workflows/ci.yaml) |
+| Google Cloud Platform (GCP) | [![CI](https://github.com/ManageIQ/manageiq-providers-google/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-google/actions/workflows/ci.yaml) |
+| IBM Cloud | [![CI](https://github.com/ManageIQ/manageiq-providers-ibm_cloud/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-ibm_cloud/actions/workflows/ci.yaml) |
+| IBM Cloud Infrastructure Center (CIC) | [![CI](https://github.com/ManageIQ/manageiq-providers-ibm_cic/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-ibm_cic/actions/workflows/ci.yaml) |
+| IBM Power HMC | [![CI](https://github.com/ManageIQ/manageiq-providers-ibm_power_hmc/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-ibm_power_hmc/actions/workflows/ci.yaml) |
+| IBM Power VC | [![CI](https://github.com/ManageIQ/manageiq-providers-ibm_power_vc/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-ibm_power_vc/actions/workflows/ci.yaml) |
+| IBM Terraform | [![CI](https://github.com/ManageIQ/manageiq-providers-ibm_terraform/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-ibm_terraform/actions/workflows/ci.yaml) |
+| Kubernetes | [![CI](https://github.com/ManageIQ/manageiq-providers-kubernetes/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-kubernetes/actions/workflows/ci.yaml) |
+| Kubevirt | [![CI](https://github.com/ManageIQ/manageiq-providers-kubevirt/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-kubevirt/actions/workflows/ci.yaml) |
+| Lenovo xClarity | [![CI](https://github.com/ManageIQ/manageiq-providers-lenovo/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-lenovo/actions/workflows/ci.yaml) |
+| Nuage | [![CI](https://github.com/ManageIQ/manageiq-providers-nuage/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-nuage/actions/workflows/ci.yaml) |
+| OpenStack | [![CI](https://github.com/ManageIQ/manageiq-providers-openstack/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-openstack/actions/workflows/ci.yaml) |
+| OpenShift | [![CI](https://github.com/ManageIQ/manageiq-providers-openshift/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-openshift/actions/workflows/ci.yaml) |
+| Oracle Cloud | [![CI](https://github.com/ManageIQ/manageiq-providers-oracle_cloud/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-oracle_cloud/actions/workflows/ci.yaml) |
+| Ovirt | [![CI](https://github.com/ManageIQ/manageiq-providers-ovirt/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-ovirt/actions/workflows/ci.yaml) |
+| Redfish | [![CI](https://github.com/ManageIQ/manageiq-providers-redfish/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-redfish/actions/workflows/ci.yaml) |
+| Microsoft SCVMM | [![CI](https://github.com/ManageIQ/manageiq-providers-scvmm/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-scvmm/actions/workflows/ci.yaml) |
+| VMware NSX-T | [![CI](https://github.com/ManageIQ/manageiq-providers-nsxt/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-nsxt/actions/workflows/ci.yaml) |
+| VMware vSphere and vCloud | [![CI](https://github.com/ManageIQ/manageiq-providers-vmware/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-vmware/actions/workflows/ci.yaml) |
 
 
 # ManageIQ
@@ -132,7 +139,7 @@ Displays the build status of ManageIQ repositories
 ## Amazon Web Services (AWS)
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-amazon.svg)](http://badge.fury.io/rb/manageiq-providers-amazon)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-amazon.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-amazon)
+[![CI](https://github.com/ManageIQ/manageiq-providers-amazon/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-amazon/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-amazon.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-amazon)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-amazon/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-amazon/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-amazon.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-amazon)
@@ -142,10 +149,23 @@ Displays the build status of ManageIQ repositories
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-amazon?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-amazon/branches)
 
+## Kyndryl AutoSDE
+
+[![Gem Version](https://badge.fury.io/rb/manageiq-providers-autosde.svg)](http://badge.fury.io/rb/manageiq-providers-autosde)
+[![CI](https://github.com/ManageIQ/manageiq-providers-autosde/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-autosde/actions/workflows/ci.yaml)
+[![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-autosde.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-autosde)
+[![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-autosde/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-autosde/coverage)
+[![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-autosde.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-autosde)
+
+[![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-autosde?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-autosde)
+
+[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-autosde?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-autosde/branches)
+
 ## Microsoft Azure
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-azure.svg)](http://badge.fury.io/rb/manageiq-providers-azure)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-azure.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-azure)
+[![CI](https://github.com/ManageIQ/manageiq-providers-azure/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-azure/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-azure.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-azure)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-azure/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-azure/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-azure.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-azure)
@@ -158,7 +178,7 @@ Displays the build status of ManageIQ repositories
 ## Microsoft Azure Stack
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-azure_stack.svg)](http://badge.fury.io/rb/manageiq-providers-azure_stack)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-azure_stack.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-azure_stack)
+[![CI](https://github.com/ManageIQ/manageiq-providers-azure_stack/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-azure_stack/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-azure_stack.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-azure_stack)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-azure_stack/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-azure_stack/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-azure_stack.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-azure_stack)
@@ -171,7 +191,7 @@ Displays the build status of ManageIQ repositories
 ## Ansible Tower
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-ansible_tower.svg)](http://badge.fury.io/rb/manageiq-providers-ansible_tower)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-ansible_tower.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-ansible_tower)
+[![CI](https://github.com/ManageIQ/manageiq-providers-ansible_tower/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-ansible_tower/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-ansible_tower.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ansible_tower)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-ansible_tower/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ansible_tower/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-ansible_tower.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-ansible_tower)
@@ -184,7 +204,7 @@ Displays the build status of ManageIQ repositories
 ## Foreman
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-foreman.svg)](http://badge.fury.io/rb/manageiq-providers-foreman)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-foreman.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-foreman)
+[![CI](https://github.com/ManageIQ/manageiq-providers-foreman/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-foreman/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-foreman.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-foreman)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-foreman/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-foreman/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-foreman.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-foreman)
@@ -197,7 +217,7 @@ Displays the build status of ManageIQ repositories
 ## Google Cloud Platform (GCP)
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-google.svg)](http://badge.fury.io/rb/manageiq-providers-google)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-google.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-google)
+[![CI](https://github.com/ManageIQ/manageiq-providers-google/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-google/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-google.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-google)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-google/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-google/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-google.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-google)
@@ -207,10 +227,75 @@ Displays the build status of ManageIQ repositories
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-google?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-google/branches)
 
+## IBM Cloud
+
+[![Gem Version](https://badge.fury.io/rb/manageiq-providers-ibm_cloud.svg)](http://badge.fury.io/rb/manageiq-providers-ibm_cloud)
+[![CI](https://github.com/ManageIQ/manageiq-providers-ibm_cloud/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-ibm_cloud/actions/workflows/ci.yaml)
+[![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_cloud.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_cloud)
+[![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_cloud/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_cloud/coverage)
+[![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-ibm_cloud.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-ibm_cloud)
+
+[![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ibm_cloud?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-ibm_cloud)
+
+[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-ibm_cloud?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-ibm_cloud/branches)
+
+## IBM Cloud Infrastructure Center (CIC)
+
+[![Gem Version](https://badge.fury.io/rb/manageiq-providers-ibm_cic.svg)](http://badge.fury.io/rb/manageiq-providers-ibm_cic)
+[![CI](https://github.com/ManageIQ/manageiq-providers-ibm_cic/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-ibm_cic/actions/workflows/ci.yaml)
+[![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_cic.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_cic)
+[![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_cic/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_cic/coverage)
+[![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-ibm_cic.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-ibm_cic)
+
+[![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ibm_cic?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-ibm_cic)
+
+[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-ibm_cic?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-ibm_cic/branches)
+
+## IBM Power HMC
+
+[![Gem Version](https://badge.fury.io/rb/manageiq-providers-ibm_power_hmc.svg)](http://badge.fury.io/rb/manageiq-providers-ibm_power_hmc)
+[![CI](https://github.com/ManageIQ/manageiq-providers-ibm_power_hmc/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-ibm_power_hmc/actions/workflows/ci.yaml)
+[![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_power_hmc.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_power_hmc)
+[![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_power_hmc/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_power_hmc/coverage)
+[![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-ibm_power_hmc.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-ibm_power_hmc)
+
+[![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ibm_power_hmc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-ibm_power_hmc)
+
+[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-ibm_power_hmc?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-ibm_power_hmc/branches)
+
+## IBM Power VC
+
+[![Gem Version](https://badge.fury.io/rb/manageiq-providers-ibm_power_c.svg)](http://badge.fury.io/rb/manageiq-providers-ibm_power_c)
+[![CI](https://github.com/ManageIQ/manageiq-providers-ibm_power_c/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-ibm_power_c/actions/workflows/ci.yaml)
+[![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_power_c.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_power_c)
+[![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_power_c/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_power_c/coverage)
+[![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-ibm_power_c.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-ibm_power_c)
+
+[![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ibm_power_c?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-ibm_power_c)
+
+[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-ibm_power_c?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-ibm_power_c/branches)
+
+## IBM Terraform
+
+[![Gem Version](https://badge.fury.io/rb/manageiq-providers-ibm_terraform.svg)](http://badge.fury.io/rb/manageiq-providers-ibm_terraform)
+[![CI](https://github.com/ManageIQ/manageiq-providers-ibm_terraform/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-ibm_terraform/actions/workflows/ci.yaml)
+[![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_terraform.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_terraform)
+[![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_terraform/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_terraform/coverage)
+[![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-ibm_terraform.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-ibm_terraform)
+
+[![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ibm_terraform?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-ibm_terraform)
+
+[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-ibm_terraform?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-ibm_terraform/branches)
+
 ## Kubernetes
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-kubernetes.svg)](http://badge.fury.io/rb/manageiq-providers-kubernetes)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-kubernetes.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-kubernetes)
+[![CI](https://github.com/ManageIQ/manageiq-providers-kubernetes/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-kubernetes/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-kubernetes.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-kubernetes)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-kubernetes/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-kubernetes/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-kubernetes.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-kubernetes)
@@ -223,7 +308,7 @@ Displays the build status of ManageIQ repositories
 ## Kubevirt
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-kubevirt.svg)](http://badge.fury.io/rb/manageiq-providers-kubevirt)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-kubevirt.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-kubevirt)
+[![CI](https://github.com/ManageIQ/manageiq-providers-kubevirt/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-kubevirt/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-kubevirt.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-kubevirt)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-kubevirt/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-kubevirt/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-kubevirt.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-kubevirt)
@@ -235,7 +320,7 @@ Displays the build status of ManageIQ repositories
 ## Lenovo xClarity
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-lenovo.svg)](http://badge.fury.io/rb/manageiq-providers-lenovo)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-lenovo.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-lenovo)
+[![CI](https://github.com/ManageIQ/manageiq-providers-lenovo/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-lenovo/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-lenovo.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-lenovo)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-lenovo/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-lenovo/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-lenovo.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-lenovo)
@@ -249,7 +334,7 @@ Displays the build status of ManageIQ repositories
 ## Nuage
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-nuage.svg)](http://badge.fury.io/rb/manageiq-providers-nuage)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-nuage.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-nuage)
+[![CI](https://github.com/ManageIQ/manageiq-providers-nuage/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-nuage/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-nuage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-nuage)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-nuage/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-nuage/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-nuage.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-nuage)
@@ -262,7 +347,7 @@ Displays the build status of ManageIQ repositories
 ## OpenStack
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-openstack.svg)](http://badge.fury.io/rb/manageiq-providers-openstack)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-openstack.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-openstack)
+[![CI](https://github.com/ManageIQ/manageiq-providers-openstack/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-openstack/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-openstack.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-openstack)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-openstack/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-openstack/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-openstack.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-openstack)
@@ -275,7 +360,7 @@ Displays the build status of ManageIQ repositories
 ## OpenShift
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-openshift.svg)](http://badge.fury.io/rb/manageiq-providers-openshift)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-openshift.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-openshift)
+[![CI](https://github.com/ManageIQ/manageiq-providers-openshift/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-openshift/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-openshift.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-openshift)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-openshift/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-openshift/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-openshift.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-openshift)
@@ -285,10 +370,23 @@ Displays the build status of ManageIQ repositories
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-openshift?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-openshift/branches)
 
+## Oracle Cloud
+
+[![Gem Version](https://badge.fury.io/rb/manageiq-providers-oracle_cloud.svg)](http://badge.fury.io/rb/manageiq-providers-oracle_cloud)
+[![CI](https://github.com/ManageIQ/manageiq-providers-oracle_cloud/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-oracle_cloud/actions/workflows/ci.yaml)
+[![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-oracle_cloud.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-oracle_cloud)
+[![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-oracle_cloud/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-oracle_cloud/coverage)
+[![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-oracle_cloud.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-oracle_cloud)
+
+[![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-oracle_cloud?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-oracle_cloud)
+
+[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-oracle_cloud?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-oracle_cloud/branches)
+
 ## Ovirt
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-ovirt.svg)](http://badge.fury.io/rb/manageiq-providers-ovirt)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-ovirt.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-ovirt)
+[![CI](https://github.com/ManageIQ/manageiq-providers-ovirt/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-ovirt/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-ovirt.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ovirt)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-ovirt/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ovirt/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-ovirt.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-ovirt)
@@ -301,7 +399,7 @@ Displays the build status of ManageIQ repositories
 ## Redfish
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-redfish.svg)](http://badge.fury.io/rb/manageiq-providers-redfish)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-redfish.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-redfish)
+[![CI](https://github.com/ManageIQ/manageiq-providers-redfish/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-redfish/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-redfish.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-redfish)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-redfish/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-redfish/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-redfish.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-redfish)
@@ -314,7 +412,7 @@ Displays the build status of ManageIQ repositories
 ## Microsoft SCVMM
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-scvmm.svg)](http://badge.fury.io/rb/manageiq-providers-scvmm)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm)
+[![CI](https://github.com/ManageIQ/manageiq-providers-scvmm/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-scvmm/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-scvmm.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-scvmm)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-scvmm/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-scvmm/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-scvmm.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-scvmm)
@@ -327,7 +425,7 @@ Displays the build status of ManageIQ repositories
 ## VMware NSX-T
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-nsxt.svg)](http://badge.fury.io/rb/manageiq-providers-nsxt)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-nsxt.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-nsxt)
+[![CI](https://github.com/ManageIQ/manageiq-providers-nsxt/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-nsxt/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-nsxt.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-nsxt)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-nsxt/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-nsxt/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-nsxt.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-nsxt)
@@ -340,7 +438,7 @@ Displays the build status of ManageIQ repositories
 ## VMware vSphere and vCloud
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-vmware.svg)](http://badge.fury.io/rb/manageiq-providers-vmware)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-vmware.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-providers-vmware)
+[![CI](https://github.com/ManageIQ/manageiq-providers-vmware/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-vmware/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-vmware.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-vmware)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-vmware/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-vmware/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-vmware.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-vmware)
