@@ -47,7 +47,7 @@ Displays the build status of ManageIQ repositories
 [![Open Source Helpers](https://www.codetriage.com/manageiq/manageiq/badges/users.svg)](https://www.codetriage.com/manageiq/manageiq)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq)
+[![Translate](https://img.shields.io/badge/translate-transifex-blue.svg)](https://www.transifex.com/manageiq/manageiq/dashboard/)
 [![License](http://img.shields.io/badge/license-APACHE2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 
@@ -64,7 +64,6 @@ Displays the build status of ManageIQ repositories
 [![Scrutinizer](https://scrutinizer-ci.com/g/ManageIQ/manageiq-ui-classic/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/ManageIQ/manageiq-ui-classic/?branch=master)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq/ui?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-ui-classic)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-ui-classic?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-ui-classic/branches)
 
@@ -89,7 +88,8 @@ Displays the build status of ManageIQ repositories
 [![Coverage Status](https://coveralls.io/repos/github/ManageIQ/manageiq-ui-service/badge.svg?branch=master)](https://coveralls.io/github/ManageIQ/manageiq-ui-service?branch=master)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-ui-service?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-ui-service)
+[![Translate](https://img.shields.io/badge/translate-transifex-blue.svg)](https://www.transifex.com/manageiq/manageiq-service-ui/dashboard/)
+
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-ui-service?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-ui-service/branches)
 
@@ -102,7 +102,6 @@ Displays the build status of ManageIQ repositories
 [![Coverage Status](https://coveralls.io/repos/ManageIQ/manageiq-api/badge.svg?branch=master&service=github)](https://coveralls.io/github/ManageIQ/manageiq-api?branch=master)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-api?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq)
 [![License](http://img.shields.io/badge/license-APACHE2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 
@@ -145,7 +144,6 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-amazon.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-amazon)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-amazon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-amazon)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-amazon?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-amazon/branches)
 
@@ -158,7 +156,6 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-autosde.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-autosde)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-autosde?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-autosde)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-autosde?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-autosde/branches)
 
@@ -171,7 +168,6 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-azure.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-azure)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-azure?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-azure)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-azure?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-azure/branches)
 
@@ -184,7 +180,6 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-azure_stack.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-azure_stack)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-azure_stack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-azure_stack)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-azure_stack?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-azure_stack/branches)
 
@@ -197,7 +192,6 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-ansible_tower.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-ansible_tower)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ansible_tower?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-ansible_tower)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-ansible_tower?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-ansible_tower/branches)
 
@@ -210,7 +204,6 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-foreman.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-foreman)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-foreman?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-foreman)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-foreman?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-foreman/branches)
 
@@ -223,7 +216,6 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-google.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-google)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-google?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-google)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-google?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-google/branches)
 
@@ -236,7 +228,6 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-ibm_cloud.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-ibm_cloud)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ibm_cloud?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-ibm_cloud)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-ibm_cloud?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-ibm_cloud/branches)
 
@@ -249,7 +240,6 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-ibm_cic.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-ibm_cic)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ibm_cic?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-ibm_cic)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-ibm_cic?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-ibm_cic/branches)
 
@@ -262,7 +252,6 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-ibm_power_hmc.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-ibm_power_hmc)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ibm_power_hmc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-ibm_power_hmc)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-ibm_power_hmc?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-ibm_power_hmc/branches)
 
@@ -275,7 +264,6 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-ibm_power_c.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-ibm_power_c)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ibm_power_c?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-ibm_power_c)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-ibm_power_c?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-ibm_power_c/branches)
 
@@ -288,7 +276,6 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-ibm_terraform.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-ibm_terraform)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ibm_terraform?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-ibm_terraform)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-ibm_terraform?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-ibm_terraform/branches)
 
@@ -301,7 +288,6 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-kubernetes.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-kubernetes)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-kubernetes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-kubernetes)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-kubernetes?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-kubernetes/branches)
 
@@ -313,7 +299,6 @@ Displays the build status of ManageIQ repositories
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-kubevirt/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-kubevirt/coverage)
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-kubevirt.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-kubevirt)
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-kubevirt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-kubevirt)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-kubevirt?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-kubevirt/branches)
 
@@ -326,7 +311,6 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-lenovo.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-lenovo)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-lenovo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-lenovo)
 [![License](http://img.shields.io/badge/license-APACHE2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-lenovo?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-lenovo/branches)
@@ -340,7 +324,6 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-nuage.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-nuage)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-nuage?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-nuage)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-nuage?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-nuage/branches)
 
@@ -353,7 +336,6 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-openstack.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-openstack)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-openstack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-openstack)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-openstack?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-openstack/branches)
 
@@ -366,7 +348,6 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-openshift.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-openshift)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-openshift?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-openshift)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-openshift?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-openshift/branches)
 
@@ -379,7 +360,6 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-oracle_cloud.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-oracle_cloud)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-oracle_cloud?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-oracle_cloud)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-oracle_cloud?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-oracle_cloud/branches)
 
@@ -392,7 +372,6 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-ovirt.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-ovirt)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ovirt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-ovirt)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-ovirt?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-ovirt/branches)
 
@@ -405,7 +384,6 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-redfish.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-redfish)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-redfish?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-redfish)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-redfish?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-redfish/branches)
 
@@ -418,7 +396,6 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-scvmm.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-scvmm)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-scvmm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-scvmm)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-scvmm?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm/branches)
 
@@ -431,7 +408,6 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-nsxt.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-nsxt)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-nsxt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-nsxt)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-nsxt?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-nsxt/branches)
 
@@ -444,6 +420,5 @@ Displays the build status of ManageIQ repositories
 [![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-vmware.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-vmware)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-vmware?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-vmware)
 
 [![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-vmware?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-vmware/branches)
