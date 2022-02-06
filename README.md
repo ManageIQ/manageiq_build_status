@@ -6,7 +6,7 @@ Displays the build status of ManageIQ repositories
 | Repo | Build status|
 |:----:|:-----------:|
 | [ManageIQ](https://github.com/ManageIQ/manageiq) | [![Build Status](https://travis-ci.org/ManageIQ/manageiq.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq) |
-| [ManageIQ Classic UI](https://github.com/ManageIQ/manageiq-ui-classic) | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-classic.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-ui-classic) |
+| [ManageIQ Classic UI](https://github.com/ManageIQ/manageiq-ui-classic) | [![CI](https://github.com/ManageIQ/manageiq-ui-classic/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-ui-classic/actions/workflows/ci.yaml) |
 | [ManageIQ Schema](https://github.com/ManageIQ/manageiq-schema) | [![CI](https://github.com/ManageIQ/manageiq-schema/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-schema/actions/workflows/ci.yaml) |
 | [ManageIQ Service UI](https://github.com/ManageIQ/manageiq-ui-service) | [![CI](https://github.com/ManageIQ/manageiq-ui-service/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-ui-service/actions/workflows/ci.yaml) |
 | [ManageIQ API](https://github.com/ManageIQ/manageiq-api) | [![CI](https://github.com/ManageIQ/manageiq-api/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-api/actions/workflows/ci.yaml) |
@@ -57,7 +57,7 @@ Displays the build status of ManageIQ repositories
 # ManageIQ Classic UI
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-ui-classic.svg)](http://badge.fury.io/rb/manageiq-ui-classic)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-classic.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-ui-classic)
+[![CI](https://github.com/ManageIQ/manageiq-ui-classic/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-ui-classic/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-ui-classic.svg)](https://codeclimate.com/github/ManageIQ/manageiq-ui-classic)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-ui-classic/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-ui-classic/coverage)
 [![Coverage Status](https://coveralls.io/repos/github/ManageIQ/manageiq-ui-classic/badge.svg?branch=master)](https://coveralls.io/github/ManageIQ/manageiq-ui-classic?branch=master)
@@ -65,7 +65,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq/ui?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-ui-classic?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-ui-classic/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-ui-classic?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-ui-classic/actions?query=branch%3Amaster)
 
 
 # ManageIQ Schema
