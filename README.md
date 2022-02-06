@@ -77,7 +77,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-schema?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-schema?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-schema/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-schema?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-schema/actions?query=branch%3Amaster)
 
 
 # ManageIQ Service UI
@@ -90,7 +90,7 @@ Displays the build status of ManageIQ repositories
 [![Translate](https://img.shields.io/badge/translate-transifex-blue.svg)](https://www.transifex.com/manageiq/manageiq-service-ui/dashboard/)
 
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-ui-service?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-ui-service/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-ui-service?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-ui-service/actions?query=branch%3Amaster)
 
 
 # ManageIQ API
@@ -104,7 +104,7 @@ Displays the build status of ManageIQ repositories
 [![License](http://img.shields.io/badge/license-APACHE2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-api?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-api/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-api?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-api/actions?query=branch%3Amaster)
 
 
 # ManageIQ Automation Engine
@@ -116,7 +116,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-automation_engine?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-automation_engine?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-automation_engine/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-automation_engine?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-automation_engine/actions?query=branch%3Amaster)
 
 
 # ManageIQ Content
@@ -128,7 +128,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-content?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-content?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-content/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-content?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-content/actions?query=branch%3Amaster)
 
 # Providers
 
@@ -141,7 +141,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-amazon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-amazon?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-amazon/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-amazon?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-amazon/actions?query=branch%3Amaster)
 
 ## Kyndryl AutoSDE
 
@@ -152,7 +152,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-autosde?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-autosde?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-autosde/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-autosde?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-autosde/actions?query=branch%3Amaster)
 
 ## Microsoft Azure
 
@@ -163,7 +163,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-azure?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-azure?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-azure/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-azure?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-azure/actions?query=branch%3Amaster)
 
 ## Microsoft Azure Stack
 
@@ -174,7 +174,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-azure_stack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-azure_stack?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-azure_stack/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-azure_stack?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-azure_stack/actions?query=branch%3Amaster)
 
 ## Ansible Tower
 
@@ -185,7 +185,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ansible_tower?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-ansible_tower?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-ansible_tower/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-ansible_tower?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-ansible_tower/actions?query=branch%3Amaster)
 
 ## Foreman
 
@@ -196,7 +196,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-foreman?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-foreman?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-foreman/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-foreman?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-foreman/actions?query=branch%3Amaster)
 
 ## Google Cloud Platform (GCP)
 
@@ -207,7 +207,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-google?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-google?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-google/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-google?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-google/actions?query=branch%3Amaster)
 
 ## IBM Cloud
 
@@ -218,7 +218,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ibm_cloud?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-ibm_cloud?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-ibm_cloud/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-ibm_cloud?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-ibm_cloud/actions?query=branch%3Amaster)
 
 ## IBM Cloud Infrastructure Center (CIC)
 
@@ -229,7 +229,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ibm_cic?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-ibm_cic?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-ibm_cic/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-ibm_cic?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-ibm_cic/actions?query=branch%3Amaster)
 
 ## IBM Power HMC
 
@@ -240,18 +240,18 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ibm_power_hmc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-ibm_power_hmc?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-ibm_power_hmc/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-ibm_power_hmc?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-ibm_power_hmc/actions?query=branch%3Amaster)
 
 ## IBM Power VC
 
-[![Gem Version](https://badge.fury.io/rb/manageiq-providers-ibm_power_c.svg)](http://badge.fury.io/rb/manageiq-providers-ibm_power_c)
-[![CI](https://github.com/ManageIQ/manageiq-providers-ibm_power_c/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-ibm_power_c/actions/workflows/ci.yaml)
-[![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_power_c.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_power_c)
-[![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_power_c/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_power_c/coverage)
+[![Gem Version](https://badge.fury.io/rb/manageiq-providers-ibm_power_vc.svg)](http://badge.fury.io/rb/manageiq-providers-ibm_power_vc)
+[![CI](https://github.com/ManageIQ/manageiq-providers-ibm_power_vc/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-ibm_power_vc/actions/workflows/ci.yaml)
+[![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_power_vc.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_power_vc)
+[![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_power_vc/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_power_vc/coverage)
 
-[![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ibm_power_c?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ibm_power_vc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-ibm_power_c?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-ibm_power_c/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-ibm_power_vc?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-ibm_power_vc/actions?query=branch%3Amaster)
 
 ## IBM Terraform
 
@@ -262,7 +262,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ibm_terraform?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-ibm_terraform?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-ibm_terraform/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-ibm_terraform?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-ibm_terraform/actions?query=branch%3Amaster)
 
 ## Kubernetes
 
@@ -273,7 +273,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-kubernetes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-kubernetes?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-kubernetes/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-kubernetes?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-kubernetes/actions?query=branch%3Amaster)
 
 ## Kubevirt
 
@@ -284,7 +284,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-kubevirt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-kubevirt?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-kubevirt/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-kubevirt?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-kubevirt/actions?query=branch%3Amaster)
 
 ## Lenovo xClarity
 
@@ -296,7 +296,7 @@ Displays the build status of ManageIQ repositories
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-lenovo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![License](http://img.shields.io/badge/license-APACHE2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-lenovo?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-lenovo/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-lenovo?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-lenovo/actions?query=branch%3Amaster)
 
 ## Nuage
 
@@ -307,7 +307,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-nuage?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-nuage?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-nuage/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-nuage?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-nuage/actions?query=branch%3Amaster)
 
 ## OpenStack
 
@@ -318,7 +318,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-openstack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-openstack?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-openstack/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-openstack?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-openstack/actions?query=branch%3Amaster)
 
 ## OpenShift
 
@@ -329,7 +329,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-openshift?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-openshift?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-openshift/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-openshift?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-openshift/actions?query=branch%3Amaster)
 
 ## Oracle Cloud
 
@@ -340,7 +340,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-oracle_cloud?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-oracle_cloud?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-oracle_cloud/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-oracle_cloud?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-oracle_cloud/actions?query=branch%3Amaster)
 
 ## Ovirt
 
@@ -351,7 +351,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ovirt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-ovirt?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-ovirt/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-ovirt?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-ovirt/actions?query=branch%3Amaster)
 
 ## Redfish
 
@@ -362,7 +362,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-redfish?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-redfish?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-redfish/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-redfish?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-redfish/actions?query=branch%3Amaster)
 
 ## Microsoft SCVMM
 
@@ -373,7 +373,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-scvmm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-scvmm?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-scvmm/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-scvmm?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-scvmm/actions?query=branch%3Amaster)
 
 ## VMware NSX-T
 
@@ -384,7 +384,7 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-nsxt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-nsxt?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-nsxt/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-nsxt?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-nsxt/actions?query=branch%3Amaster)
 
 ## VMware vSphere and vCloud
 
@@ -395,4 +395,4 @@ Displays the build status of ManageIQ repositories
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-vmware?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq-providers-vmware?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq-providers-vmware/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-vmware?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-vmware/actions?query=branch%3Amaster)
