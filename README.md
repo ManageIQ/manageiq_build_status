@@ -8,7 +8,7 @@ Displays the build status of ManageIQ repositories
 | ManageIQ | [![Build Status](https://travis-ci.org/ManageIQ/manageiq.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq) |
 | ManageIQ Classic UI | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-classic.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-ui-classic) |
 | ManageIQ Schema | [![CI](https://github.com/ManageIQ/manageiq-schema/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-schema/actions/workflows/ci.yaml) |
-| ManageIQ Service UI | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-service.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-ui-service) |
+| ManageIQ Service UI | [![CI](https://github.com/ManageIQ/manageiq-ui-service/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-ui-service/actions/workflows/ci.yaml) |
 | ManageIQ API | [![CI](https://github.com/ManageIQ/manageiq-api/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-api/actions/workflows/ci.yaml) |
 | ManageIQ Automation Engine | [![CI](https://github.com/ManageIQ/manageiq-automation_engine/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-automation_engine/actions/workflows/ci.yaml) |
 | ManageIQ Content | [![CI](https://github.com/ManageIQ/manageiq-content/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-content/actions/workflows/ci.yaml) |
@@ -84,7 +84,7 @@ Displays the build status of ManageIQ repositories
 
 # ManageIQ Service UI
 
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-ui-service.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq-ui-service)
+[![CI](https://github.com/ManageIQ/manageiq-ui-service/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-ui-service/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-ui-service/badges/gpa.svg)](https://codeclimate.com/github/ManageIQ/manageiq-ui-service)
 [![Coverage Status](https://coveralls.io/repos/github/ManageIQ/manageiq-ui-service/badge.svg?branch=master)](https://coveralls.io/github/ManageIQ/manageiq-ui-service?branch=master)
 
