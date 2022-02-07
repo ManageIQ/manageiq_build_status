@@ -5,7 +5,7 @@ Displays the build status of ManageIQ repositories
 
 | Repo | Build status|
 |:----:|:-----------:|
-| [ManageIQ](https://github.com/ManageIQ/manageiq) | [![Build Status](https://travis-ci.org/ManageIQ/manageiq.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq) |
+| [ManageIQ](https://github.com/ManageIQ/manageiq) | [![CI](https://github.com/ManageIQ/manageiq/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq/actions/workflows/ci.yaml) |
 | [ManageIQ Classic UI](https://github.com/ManageIQ/manageiq-ui-classic) | [![CI](https://github.com/ManageIQ/manageiq-ui-classic/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-ui-classic/actions/workflows/ci.yaml) |
 | [ManageIQ Schema](https://github.com/ManageIQ/manageiq-schema) | [![CI](https://github.com/ManageIQ/manageiq-schema/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-schema/actions/workflows/ci.yaml) |
 | [ManageIQ Service UI](https://github.com/ManageIQ/manageiq-ui-service) | [![CI](https://github.com/ManageIQ/manageiq-ui-service/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-ui-service/actions/workflows/ci.yaml) |
@@ -54,7 +54,7 @@ Displays the build status of ManageIQ repositories
 
 # ManageIQ
 
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq.svg?branch=master)](https://travis-ci.org/ManageIQ/manageiq)
+[![CI](https://github.com/ManageIQ/manageiq/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq/badges/gpa.svg)](https://codeclimate.com/github/ManageIQ/manageiq)
 [![Codacy](https://api.codacy.com/project/badge/grade/9ffce48ccb924020ae8f9e698048e9a4)](https://www.codacy.com/app/ManageIQ/manageiq)
 [![Coverage Status](https://coveralls.io/repos/ManageIQ/manageiq/badge.svg?branch=master&service=github)](https://coveralls.io/github/ManageIQ/manageiq?branch=master)
@@ -65,7 +65,7 @@ Displays the build status of ManageIQ repositories
 [![License](http://img.shields.io/badge/license-APACHE2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 
-[![Build history for master branch](https://buildstats.info/travisci/chart/ManageIQ/manageiq?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://travis-ci.org/ManageIQ/manageiq/branches)
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq/actions?query=branch%3Amaster)
 
 
 # ManageIQ Classic UI
