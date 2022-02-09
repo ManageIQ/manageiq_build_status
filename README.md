@@ -54,7 +54,6 @@ Displays the build status of ManageIQ repositories specified in [manageiq-releas
 | Repo | Build status|
 |:----:|:-----------:|
 | [ManageIQ Consumption](https://github.com/ManageIQ/manageiq-consumption) | [![CI](https://github.com/ManageIQ/manageiq-consumption/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-consumption/actions/workflows/ci.yaml) |
-| [ManageIQ Documentation](https://github.com/ManageIQ/manageiq-documentation) | [![Build Status](https://travis-ci.org/ManageIQ/manageiq-documentation.svg?branch=master)](https://travis-ci.com/github/ManageIQ/manageiq-documentation) |
 | [DBus Api Service](https://github.com/ManageIQ/dbus_api_service) | [![Build Status](https://travis-ci.com/ManageIQ/dbus_api_service.svg?branch=master)](https://travis-ci.com/github/ManageIQ/dbus_api_service) |
 | [HTTPD ConfigMap Generator](https://github.com/ManageIQ/httpd_configmap_generator) | [![Build Status](https://travis-ci.org/ManageIQ/httpd_configmap_generator.svg?branch=master)](https://travis-ci.com/github/ManageIQ/httpd_configmap_generator) |
 | [ManageIQ Gems Pending](https://github.com/ManageIQ/manageiq-gems-pending) | [![CI](https://github.com/ManageIQ/manageiq-gems-pending/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-gems-pending/actions/workflows/ci.yaml) |
@@ -70,3 +69,11 @@ Displays the build status of ManageIQ repositories specified in [manageiq-releas
 | [ManageIQ Appliance Console](https://github.com/ManageIQ/manageiq-appliance_console) | [![Build Status](https://travis-ci.com/ManageIQ/manageiq-appliance_console.svg?branch=master)](https://travis-ci.com/github/ManageIQ/manageiq-appliance_console) |
 | [ManageIQ Pods](https://github.com/ManageIQ/manageiq-pods) | [![Build Status](https://travis-ci.com/ManageIQ/manageiq-pods.svg?branch=master)](https://travis-ci.com/github/ManageIQ/manageiq-pods) |
 | [ManageIQ RPM Build](https://github.com/ManageIQ/manageiq-rpm_build) | [![CI](https://github.com/ManageIQ/manageiq-rpm_build/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-rpm_build/actions/workflows/ci.yaml) |
+
+# Documentation and Website
+
+| Repo | Build status|
+|:----:|:-----------:|
+| [ManageIQ Documentation](https://github.com/ManageIQ/manageiq-documentation) | [![CI](https://github.com/ManageIQ/manageiq-documentation/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-documentation/actions/workflows/ci.yaml) |
+| [ManageIQ Developer Guides](https://github.com/ManageIQ/guides) | [![CI](https://github.com/ManageIQ/guides/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/guides/actions/workflows/ci.yaml) |
+| [ManageIQ.org](https://github.com/ManageIQ/manageiq.org) | [![CI](https://github.com/ManageIQ/manageiq.org/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq.org/actions/workflows/ci.yaml) |
