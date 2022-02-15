@@ -59,7 +59,7 @@ Displays the build status of ManageIQ repositories specified in [manageiq-releas
 | [HTTPD ConfigMap Generator](https://github.com/ManageIQ/httpd_configmap_generator) | [![Build Status](https://travis-ci.org/ManageIQ/httpd_configmap_generator.svg?branch=master)](https://travis-ci.com/github/ManageIQ/httpd_configmap_generator) | |
 | [ManageIQ Gems Pending](https://github.com/ManageIQ/manageiq-gems-pending) | [![CI](https://github.com/ManageIQ/manageiq-gems-pending/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-gems-pending/actions/workflows/ci.yaml) | [![CI](https://github.com/ManageIQ/manageiq-gems-pending/actions/workflows/ci.yaml/badge.svg?branch=najdorf)](https://github.com/ManageIQ/manageiq-gems-pending/actions/workflows/ci.yaml) |
 | [ManageIQ SmartState](https://github.com/ManageIQ/manageiq-smartstate) | [![Build Status](https://travis-ci.com/ManageIQ/manageiq-smartstate.svg)](https://travis-ci.com/github/ManageIQ/manageiq-smartstate) | |
-| [Amazon SmartState Support](https://github.com/ManageIQ/amazon_ssa_support) | [![Build Status](https://travis-ci.org/ManageIQ/amazon_ssa_support.svg)](https://travis-ci.com/github/ManageIQ/amazon_ssa_support) | |
+| [Amazon SmartState Support](https://github.com/ManageIQ/amazon_ssa_support) | [![CI](https://github.com/ManageIQ/amazon_ssa_support/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/amazon_ssa_support/actions/workflows/ci.yaml) |  [![CI](https://github.com/ManageIQ/amazon_ssa_support/actions/workflows/ci.yaml/badge.svg?branch=najdorf)](https://github.com/ManageIQ/amazon_ssa_support/actions/workflows/ci.yaml) |
 
 # Appliance and Build
 
