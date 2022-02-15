@@ -64,10 +64,9 @@ Displays the build status of ManageIQ repositories specified in [manageiq-releas
 
 | Repo | Master  | Najdorf |
 |:----:|:-------:|:-------:|
-| [ManageIQ Appliance](https://github.com/ManageIQ/manageiq-appliance) | [![Build Status](https://travis-ci.com/ManageIQ/manageiq-appliance.svg?branch=master)](https://travis-ci.com/github/ManageIQ/manageiq-appliance) | |
-| [ManageIQ Appliance Build](https://github.com/ManageIQ/manageiq-appliance-build) | [![Build Status](https://api.travis-ci.com/ManageIQ/manageiq-appliance-build.svg)](https://travis-ci.com/github/ManageIQ/manageiq-appliance-build) | |
+| [ManageIQ Appliance Build](https://github.com/ManageIQ/manageiq-appliance-build) | [![CI](https://github.com/ManageIQ/manageiq-appliance-build/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-appliance-build/actions/workflows/ci.yaml) | [![CI](https://github.com/ManageIQ/manageiq-appliance-build/actions/workflows/ci.yaml/badge.svg?branch=najdorf)](https://github.com/ManageIQ/manageiq-appliance-build/actions/workflows/ci.yaml) |
 | [ManageIQ Appliance Console](https://github.com/ManageIQ/manageiq-appliance_console) | [![Build Status](https://travis-ci.com/ManageIQ/manageiq-appliance_console.svg?branch=master)](https://travis-ci.com/github/ManageIQ/manageiq-appliance_console) | |
-| [ManageIQ Pods](https://github.com/ManageIQ/manageiq-pods) | [![Build Status](https://travis-ci.com/ManageIQ/manageiq-pods.svg?branch=master)](https://travis-ci.com/github/ManageIQ/manageiq-pods) | |
+| [ManageIQ Pods](https://github.com/ManageIQ/manageiq-pods) | [![CI](https://github.com/ManageIQ/manageiq-pods/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-pods/actions/workflows/ci.yaml) | [![CI](https://github.com/ManageIQ/manageiq-pods/actions/workflows/ci.yaml/badge.svg?branch=najdorf)](https://github.com/ManageIQ/manageiq-pods/actions/workflows/ci.yaml) |
 | [ManageIQ RPM Build](https://github.com/ManageIQ/manageiq-rpm_build) | [![CI](https://github.com/ManageIQ/manageiq-rpm_build/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-rpm_build/actions/workflows/ci.yaml) | [![CI](https://github.com/ManageIQ/manageiq-rpm_build/actions/workflows/ci.yaml/badge.svg?branch=najdorf)](https://github.com/ManageIQ/manageiq-rpm_build/actions/workflows/ci.yaml) |
 
 # Documentation and Website
