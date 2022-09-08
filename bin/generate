@@ -1,0 +1,99 @@
+#!/usr/bin/env ruby
+
+require 'bundler/inline'
+gemfile do
+  source 'https://rubygems.org'
+  gem 'more_core_extensions', :require => false
+end
+
+VERSIONS = %w[
+  master
+  oparin
+  najdorf
+].freeze
+
+require "active_support/all"
+require "more_core_extensions/all"
+require "stringio"
+
+require 'open-uri'
+all_repos = YAML.load(URI.open("https://raw.githubusercontent.com/ManageIQ/manageiq-release/master/config/repos.yml"))
+
+CATEGORIES = {
+  "Core" => %w[
+    manageiq
+    manageiq-schema
+    manageiq-api
+    manageiq-automation_engine
+    manageiq-content
+  ],
+  "UI" => %w[
+    manageiq-ui-classic
+    manageiq-ui-service
+    manageiq-decorators
+    ui-components
+  ],
+  "Providers" => VERSIONS.flat_map { |v| all_repos[v].keys.grep(/^manageiq-providers-/) }.uniq.sort,
+  "Dependencies" => %w[
+    manageiq-consumption
+    dbus_api_service
+    httpd_configmap_generator
+    manageiq-gems-pending
+    manageiq-smartstate
+    amazon_ssa_support
+  ],
+  "Appliance and Build" => %w[
+    manageiq-appliance-build
+    manageiq-appliance_console
+    manageiq-pods
+    manageiq-rpm_build
+  ],
+  "Documentation and Website" => %w[
+    manageiq-documentation
+    guides
+    manageiq.org
+  ]
+}.freeze
+
+STILL_TRAVIS = %w[
+  httpd_configmap_generator
+  manageiq-appliance_console
+].freeze
+
+# Build the output
+output = StringIO.new
+
+def ci_link(repo, version)
+  if STILL_TRAVIS.include?(repo)
+    "[![Build Status](https://travis-ci.com/ManageIQ/#{repo}.svg?branch=#{version})](https://travis-ci.com/github/ManageIQ/#{repo})"
+  else
+    "[![CI](https://github.com/ManageIQ/#{repo}/actions/workflows/ci.yaml/badge.svg?branch=#{version})](https://github.com/ManageIQ/#{repo}/actions/workflows/ci.yaml?query=branch\%3A#{version})"
+  end
+end
+
+CATEGORIES.each do |title, repos|
+  table = VERSIONS
+    .map do |version|
+      repos.map do |repo|
+        repo_data = all_repos.fetch_path(version, repo) || {} if all_repos[version].key?(repo) # Empty data of an existing key is stored as a nil instead of {}
+        version == "master" || (repo_data && !repo_data["has_real_releases"]) ? ci_link(repo, version) : nil
+      end
+    end
+    .unshift(repos.map { |repo| "[#{repo}](https://github.com/ManageIQ/#{repo})" })
+    .transpose
+    .unshift(VERSIONS.map(&:titleize).unshift("Repo"))
+
+  output.puts "# #{title}"
+  output.puts
+  output.puts table.tableize
+  output.puts
+end
+
+# Write the output into the README file
+GENERATOR_LINE = "<!-- Repo links generated after here -->\n".freeze
+
+file  = Pathname.new(__dir__).join("..", "README.md")
+lines = file.readlines.take_while { |l| l != GENERATOR_LINE }
+lines << GENERATOR_LINE
+lines = lines.join << output.string
+file.write(lines)
