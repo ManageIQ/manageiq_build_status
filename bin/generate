@@ -60,6 +60,15 @@ STILL_TRAVIS = %w[
   manageiq-appliance_console
 ].freeze
 
+HAS_MASTER = %w[
+  dbus_api_service
+  guides
+  httpd_configmap_generator
+  manageiq-appliance_console
+  manageiq-smartstate
+  manageiq.org
+].freeze
+
 # Build the output
 output = StringIO.new
 
@@ -76,7 +85,7 @@ CATEGORIES.each do |title, repos|
     .map do |version|
       repos.map do |repo|
         repo_data = all_repos.fetch_path(version, repo) || {} if all_repos[version].key?(repo) # Empty data of an existing key is stored as a nil instead of {}
-        version == "master" || (repo_data && !repo_data["has_real_releases"]) ? ci_link(repo, version) : nil
+        (version == "master" && HAS_MASTER.include?(repo)) || (repo_data && !repo_data["has_real_releases"]) ? ci_link(repo, version) : nil
       end
     end
     .unshift(repos.map { |repo| "[#{repo}](https://github.com/ManageIQ/#{repo})" })
