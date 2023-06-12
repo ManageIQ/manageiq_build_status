@@ -25,52 +25,52 @@ raise "Versions missing in repos.yml: #{missing_versions.join(", ")}" if missing
 
 CATEGORIES = {
   "Core" => %w[
-    manageiq
-    manageiq-schema
-    manageiq-api
-    manageiq-automation_engine
-    manageiq-content
+    ManageIQ/manageiq
+    ManageIQ/manageiq-schema
+    ManageIQ/manageiq-api
+    ManageIQ/manageiq-automation_engine
+    ManageIQ/manageiq-content
   ],
   "UI" => %w[
-    manageiq-ui-classic
-    manageiq-ui-service
-    manageiq-decorators
-    ui-components
+    ManageIQ/manageiq-ui-classic
+    ManageIQ/manageiq-ui-service
+    ManageIQ/manageiq-decorators
+    ManageIQ/ui-components
   ],
-  "Providers" => VERSIONS.flat_map { |v| all_repos[v].keys.grep(/^manageiq-providers-/) }.uniq.sort,
+  "Providers" => VERSIONS.flat_map { |v| all_repos[v].keys.grep(/^ManageIQ\/manageiq-providers-/) }.uniq.sort,
   "Dependencies" => %w[
-    manageiq-consumption
-    dbus_api_service
-    httpd_configmap_generator
-    manageiq-gems-pending
-    manageiq-smartstate
-    amazon_ssa_support
+    ManageIQ/manageiq-consumption
+    ManageIQ/dbus_api_service
+    ManageIQ/httpd_configmap_generator
+    ManageIQ/manageiq-gems-pending
+    ManageIQ/manageiq-smartstate
+    ManageIQ/amazon_ssa_support
   ],
   "Appliance and Build" => %w[
-    manageiq-appliance-build
-    manageiq-appliance_console
-    manageiq-pods
-    manageiq-rpm_build
+    ManageIQ/manageiq-appliance-build
+    ManageIQ/manageiq-appliance_console
+    ManageIQ/manageiq-pods
+    ManageIQ/manageiq-rpm_build
   ],
   "Documentation and Website" => %w[
-    manageiq-documentation
-    guides
-    manageiq.org
+    ManageIQ/manageiq-documentation
+    ManageIQ/guides
+    ManageIQ/manageiq.org
   ]
 }.freeze
 
 STILL_TRAVIS = %w[
-  httpd_configmap_generator
-  manageiq-appliance_console
+  ManageIQ/httpd_configmap_generator
+  ManageIQ/manageiq-appliance_console
 ].freeze
 
 HAS_MASTER = %w[
-  dbus_api_service
-  guides
-  httpd_configmap_generator
-  manageiq-appliance_console
-  manageiq-smartstate
-  manageiq.org
+  ManageIQ/dbus_api_service
+  ManageIQ/guides
+  ManageIQ/httpd_configmap_generator
+  ManageIQ/manageiq-appliance_console
+  ManageIQ/manageiq-smartstate
+  ManageIQ/manageiq.org
 ].freeze
 
 # Build the output
@@ -78,9 +78,9 @@ output = StringIO.new
 
 def ci_link(repo, version)
   if STILL_TRAVIS.include?(repo)
-    "[![Build Status](https://travis-ci.com/ManageIQ/#{repo}.svg?branch=#{version})](https://travis-ci.com/github/ManageIQ/#{repo})"
+    "[![Build Status](https://travis-ci.com/#{repo}.svg?branch=#{version})](https://travis-ci.com/github/#{repo})"
   else
-    "[![CI](https://github.com/ManageIQ/#{repo}/actions/workflows/ci.yaml/badge.svg?branch=#{version})](https://github.com/ManageIQ/#{repo}/actions/workflows/ci.yaml?query=branch\%3A#{version})"
+    "[![CI](https://github.com/#{repo}/actions/workflows/ci.yaml/badge.svg?branch=#{version})](https://github.com/#{repo}/actions/workflows/ci.yaml?query=branch\%3A#{version})"
   end
 end
 
@@ -92,7 +92,7 @@ CATEGORIES.each do |title, repos|
         (version == "master" && HAS_MASTER.include?(repo)) || (repo_data && !repo_data["has_real_releases"]) ? ci_link(repo, version) : nil
       end
     end
-    .unshift(repos.map { |repo| "[#{repo}](https://github.com/ManageIQ/#{repo})" })
+    .unshift(repos.map { |repo| "[#{repo.sub(/^ManageIQ\//, "")}](https://github.com/#{repo})" })
     .transpose
     .unshift(VERSIONS.map(&:titleize).unshift("Repo"))
 
