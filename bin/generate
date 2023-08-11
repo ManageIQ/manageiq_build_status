@@ -61,7 +61,6 @@ CATEGORIES = {
 
 STILL_TRAVIS = %w[
   ManageIQ/httpd_configmap_generator
-  ManageIQ/manageiq-appliance_console
 ].freeze
 
 HAS_MASTER = %w[
