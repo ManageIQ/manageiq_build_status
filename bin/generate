@@ -8,6 +8,7 @@ end
 
 VERSIONS = %w[
   master
+  quinteros
   petrosian
   oparin
   najdorf
