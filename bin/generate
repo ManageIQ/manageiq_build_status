@@ -24,6 +24,9 @@ all_repos = YAML.load(URI.open("https://raw.githubusercontent.com/ManageIQ/manag
 missing_versions = VERSIONS.reject { |v| all_repos.key?(v) }
 raise "Versions missing in repos.yml: #{missing_versions.join(", ")}" if missing_versions.any?
 
+# Inject the dummy provider since it's not shipped, but we want to report on it
+all_repos.store_path("master", "ManageIQ/manageiq-providers-dummy_provider", nil)
+
 CATEGORIES = {
   "Core" => %w[
     ManageIQ/manageiq
