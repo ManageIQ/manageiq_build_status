@@ -8,10 +8,8 @@ end
 
 VERSIONS = %w[
   master
+  radjabov
   quinteros
-  petrosian
-  oparin
-  najdorf
 ].freeze
 
 require "active_support/all"
