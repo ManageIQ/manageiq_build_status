@@ -10,7 +10,6 @@ VERSIONS = %w[
   master
   spassky
   radjabov
-  quinteros
 ].freeze
 
 require "active_support/all"
