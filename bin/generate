@@ -8,8 +8,8 @@ end
 
 VERSIONS = %w[
   master
+  tal
   spassky
-  radjabov
 ].freeze
 
 require "active_support/all"
